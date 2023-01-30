@@ -8,10 +8,9 @@
 Resume
 </a>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=maulik8789&show_icons=true"/>
- -->
+<img src="https://github-readme-stats.vercel.app/api?username=maulik8789&show_icons=true"/>
  
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789"/> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789"/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789&layout=compact"/> -->
  
