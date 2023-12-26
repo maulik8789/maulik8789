@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maulik8789!
 - 👀 I’m interested in Backend with Python(Flask) or NodeJS(Express)
 - 👀 I’m interested in Frontend with Javascript and its frameworks
-- 🌱 I’m currently learning more about ReactJS/Redux, Data Structure and Algorithm
+- 👀 I’m interested in ReactJS/Redux, Data Structure and Algorithm
+- 🌱 I’m currently learning more about Docker and AWS 
 - 💞️ Interests: music, food, books, writing
 - 📫 Thanks for Checking my Profile
 - 📜 <a href="https://docs.google.com/document/d/1v05ZRlfA7Y_vgFcze_9ThQwr3ODnbM6y/edit?usp=sharing&ouid=116681198073996211338&rtpof=true&sd=true">
