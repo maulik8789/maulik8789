@@ -8,12 +8,13 @@
 Resume
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maulik8789&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=maulik8789&show_icons=true"/> -->
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789"/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789&layout=compact"/> -->
- 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulik8789&" alt="maulik8789" /></p>
+
 <span>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
