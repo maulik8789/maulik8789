@@ -14,7 +14,7 @@ Resume
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789"/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789&layout=compact"/> -->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulik8789&" alt="maulik8789" /></p>
+ <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulik8789&" alt="maulik8789" /></p> -->
 
 <span>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
