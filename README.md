@@ -16,10 +16,12 @@ Resume
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulik8789&layout=compact"/> -->
  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maulik8789&" alt="maulik8789" /></p> -->
 <!-- <p><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></p> -->
-<picture>
+<p>
+ <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
+ </picture>
+</p>
 <span>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
