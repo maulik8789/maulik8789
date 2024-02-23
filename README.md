@@ -19,7 +19,7 @@ Resume
 <p>
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <!-- <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" /> -->
  </picture>
 </p>
 <span>
@@ -30,7 +30,7 @@ Resume
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" />
+  <!-- <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" /> -->
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
